@@ -1,0 +1,59 @@
+.block-1 {
+
+
+padding: 0px 0px 100px 0px;
+}
+.title-block-1 {
+    padding-bottom: 20px;
+}
+li {
+    color: #869AB8;
+    line-height: 1.7rem;
+    
+}
+.li-1 {
+    padding-bottom: 1.5rem;
+}
+.li-2 {
+    padding-bottom: 0.5rem;
+}
+.li-3 {
+    padding-left: 1.3rem;
+}
+.color-span {
+    color: #A33158;
+}
+.list-block-1 {
+    list-style: none;
+    padding: 0%;
+}
+
+
+.block-2 {
+  text-align: center;
+}
+.cessions {
+    background-color: #F5EAEE;
+    color: #A33158;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.75;
+    
+}
+.title-block-2 {
+    padding-top: 20px;
+    padding-bottom: 75px;
+}
+.btn-1 {
+    background-color: #A33158;
+    color: white;
+    position: relative;
+    width: 200px;
+}
+
+.img-container {
+    padding-bottom: 45px;
+}
